@@ -1,18 +1,18 @@
 # sme-financial-intelligence-ai-dashboard
 
-# 📊 FinSight AI  
-### AI-Powered Financial Intelligence Dashboard for SMEs (UPI + Cash Analytics)
+ FinSight AI  
+ AI-Powered Financial Intelligence Dashboard for SMEs (UPI + Cash Analytics)
 
 ---
 
-## 🚀 Overview
+ Overview
 
 FinSight AI is an intelligent financial analytics system designed for Small and Medium Enterprises (SMEs).  
 It analyzes both **UPI (digital)** and **cash transactions** to provide actionable insights, anomaly detection, and future revenue forecasting.
 
 ---
 
-## 🎯 Problem Statement
+ Problem Statement
 
 Small businesses often struggle to:
 - Track income vs expenses
@@ -22,39 +22,39 @@ Small businesses often struggle to:
 
 ---
 
-## 💡 Solution
+ Solution
 
 We built an **AI-powered dashboard** that:
 
-- 📊 Analyzes financial transactions
-- 🚨 Detects anomalies using Machine Learning
-- 📈 Forecasts future revenue trends
-- 🤖 Generates smart financial insights
-- 🔍 Allows interactive exploration of data
+- Analyzes financial transactions
+- Detects anomalies using Machine Learning
+- Forecasts future revenue trends
+- Generates smart financial insights
+- Allows interactive exploration of data
 
 ---
 
-## ⚙️ Features
+ Features
 
-- 📌 **KPI Dashboard** (Income, Expense, Transactions)
-- 📈 **Revenue Trend Analysis**
-- 📊 **Category-wise Spending Insights**
-- 💳 **UPI vs Cash Analysis**
-- 🚨 **Anomaly Detection (Isolation Forest)**
-- 📉 **Forecasting using Regression**
-- 🤖 **AI-Based Financial Insights**
-- 🔍 **Interactive Filters (Date, Category, Payment Mode)**
+- **KPI Dashboard** (Income, Expense, Transactions)
+- **Revenue Trend Analysis**
+- **Category-wise Spending Insights**
+- **UPI vs Cash Analysis**
+- **Anomaly Detection (Isolation Forest)**
+- **Forecasting using Regression**
+- **AI-Based Financial Insights**
+- **Interactive Filters (Date, Category, Payment Mode)**
 
 ---
 
-## 🧠 Machine Learning Models Used
+Machine Learning Models Used
 
 - **Isolation Forest** → Detect unusual transactions
 - **Linear Regression** → Forecast revenue trends
 
 ---
 
-## 🗂️ Dataset
+ Dataset
 
 - Retail transaction dataset
 - Includes:
@@ -68,7 +68,7 @@ We built an **AI-powered dashboard** that:
 
 ---
 
-## 🛠️ Tech Stack
+ Tech Stack
 
 - **Python**
 - **Pandas, NumPy**
