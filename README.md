@@ -78,4 +78,3 @@ We built an **AI-powered dashboard** that:
 
 ---
 
-## 🏗️ Project Structure
