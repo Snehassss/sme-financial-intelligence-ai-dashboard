@@ -78,3 +78,25 @@ Machine Learning Models Used
 
 ---
 
+project-folder
+│
+├── app.py # Streamlit dashboard
+├── final_data.csv # Processed dataset
+├── Cleaned_Retail_Store_Data.csv
+├── notebook.ipynb # Data processing + ML
+└── README.md
+
+---
+
+How to Run
+
+1. Clone the repository
+```bash
+git clone https://github.com/your-username/repo-name.git
+cd repo-name
+
+2. Install dependencies
+pip install -r requirements.txt
+
+3. Run the app
+streamlit run app.py
